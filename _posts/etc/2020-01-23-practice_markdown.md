@@ -216,3 +216,67 @@ public class Hello {
 }
 ```
 
+## 2.5. 水平線 ```<hr/>```
+以下の線は水平線を作成する。
+
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+----------------------------------
+```
+
+* 例：
+* 
+
+***
+
+*****
+
+- - -
+
+----------------------------------
+
+## 2.6. リンク
+* 参照リンク
+
+```
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+```
+
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+* 外部リンク
+
+```  
+[Title](link)
+
+[Google](https://google.com "google link")
+```
+
+Link: [Google](https://google.com "google link")
+
+* 自動リンク
+
+```
+URLまたはメールアドレスは自動リンクが作られます。
+
+```  
+
+* URLリンク: <http://example.com>
+* メールリンク: <address@example.com>
+
