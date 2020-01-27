@@ -280,3 +280,32 @@ URLまたはメールアドレスは自動リンクが作られます。
 * URLリンク: <http://example.com>
 * メールリンク: <address@example.com>
 
+## 2.7. 協調
+```
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+```
+
+* *single asterisks*
+* _single underscores_
+* **double asterisks**
+* __double underscores__
+* ~~cancelline~~
+
+## 2.8.　イメージ
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
+![Microsoft Office365](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2uXZM?ver=a904&q=90&m=2&h=768&w=1024&b=%23FFFFFFFF&aim=true "O365")
+
+サイズ調節昨日はないので、HTMLテグを利用する
+```
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(ピクセル設定)" alt="O365"></img><br/>
+
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(ピクセル設定)" alt="O365"></img><br/>
+```
+<img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2uXZM?ver=a904&q=90&m=2&h=768&w=1024&b=%23FFFFFFFF&aim=true" width="450px" height="300px" title="px(ピクセル設定)" alt="O365"/><br/>
