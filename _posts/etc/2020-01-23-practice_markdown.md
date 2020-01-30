@@ -1,6 +1,11 @@
 ---
 title:  "マークダウン記法"
-excerpt: "Github Blog"
+excerpt: "マークダウンの使い方メモ"
+
+toc: true
+toc_sticky: true
+toc_label: "On this page"
+toc_icon: "file-alt"
 
 categories:
   - etc
