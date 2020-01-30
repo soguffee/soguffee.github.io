@@ -7,6 +7,7 @@ toc_sticky: true
 toc_label: "On this page"
 toc_icon: "file-alt"
 
+comments: true
 categories:
   - git
 tags:
