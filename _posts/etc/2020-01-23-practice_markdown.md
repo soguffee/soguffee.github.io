@@ -12,6 +12,8 @@ categories:
 tags:
   - Study
   - Markdown
+  - japanese
+  - 2020
 last_modified_at: 2020-01-23T12:00:00-00:00
 ---
 

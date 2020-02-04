@@ -13,6 +13,8 @@ categories:
 tags:
   - Study
   - Git
+  - japanese
+  - 2020
 last_modified_at: 2020-01-29T16:30:00-00:00
 
 ---
