@@ -39,4 +39,9 @@ tags:
 
 この状態でリモートリポジトリの内容をロカールの「master」に統合したい場合は「FETCH_HEAD」ブランチを```merge```するか、予め```pull```を実行すればよい。
 
+## git merge
+
+「FETCH_HEAD」ブランチを```merge```すると、ローカルの「master」ブランチに統合される。
+
 ![img2](http://drive.google.com/uc?export=view&id=1MpsIjIGbF8hjfHMEgxrOo9U5ueobR7KT)
+
