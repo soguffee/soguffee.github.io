@@ -302,7 +302,7 @@ __double underscores__
 * __double underscores__
 * ~~cancelline~~
 
-## 2.8.　イメージ
+## 2.8. イメージ
 ```
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
@@ -316,3 +316,43 @@ __double underscores__
 <img src="/path/to/img.jpg" width="40%" height="30%" title="px(ピクセル設定)" alt="O365"></img><br/>
 ```
 <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2uXZM?ver=a904&q=90&m=2&h=768&w=1024&b=%23FFFFFFFF&aim=true" width="450px" height="300px" title="px(ピクセル設定)" alt="O365"/><br/>
+
+
+## 2.9. テーブル
+
+* 一般的なテーブル
+
+```
+|タイトル|内容|コメント|
+|------|---|-----|
+|テスト1|テスト2|テスト3|
+|テスト1|テスト2|テスト3|
+|テスト1|テスト2|テスト3|
+```
+
+|タイトル|内容|コメント|
+|------|---|---|
+|テスト1|テスト2|テスト3|
+|テスト1|テスト2|テスト3|
+|テスト1|テスト2|テスト3|
+
+<br>
+
+* ソート
+
+```
+|タイトル|内容|コメント|
+|:-----|---:|:-----:|
+|  左ソート  |  中ソート  |  右ソート  |
+|  左ソート  |  中ソート  |  右ソート  |
+|  左ソート  |  中ソート  |  右ソート  |
+```
+
+|タイトル|内容|コメント|
+|:-----|---:|:-----:|
+|  左ソート  |  中ソート  |  右ソート  |
+|  左ソート  |  中ソート  |  右ソート  |
+|  左ソート  |  中ソート  |  右ソート  |
+
+
+
