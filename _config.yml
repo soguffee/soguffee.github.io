@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "soguffee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "description soguffee"
+  bio              : "勉強して記録しよう"
   location         : "Japan"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
