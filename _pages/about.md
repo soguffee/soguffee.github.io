@@ -1,11 +1,11 @@
 ---
-title: "블로그 소개"
+title: "ブログ紹介"
 permalink: /about/
 layout: single
 ---
 
-## soguffee.github.io 블로그
+## soguffee.github.io ブログ
 
-지킬 템플릿을 이용한 깃허브 블로그입니다.
+jekyllテンプレートを利用したgithubブログです。
 
 test page content
