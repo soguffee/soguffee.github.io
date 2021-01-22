@@ -31,3 +31,6 @@ WAF(Web Application Firewall)は一般的なFW(Firewall)と違い、ウェブア
 
 ### ウェブアプリケーションの理解
 WAFを知るためにウェブアプリケーションについて知る必要がある。
+ウェブアプリケーションの構造は一般的に以下のようだ。
+<img src="http://drive.google.com/uc?export=view&id=1HXDUl7f4Bys8LgX8V8fdw3RpKJifAkvP" width="40%" height="30%" title="what is CI" alt="what is CI" style="margin-left: auto; margin-right: auto; display: block;"> <br>
+
