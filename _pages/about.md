@@ -1,11 +1,9 @@
 ---
-title: "ブログ紹介"
+title: "soguffee.github.io"
 permalink: /about/
 layout: single
 ---
 
-## soguffee.github.io ブログ
+## soguffeeのブログ
 
-jekyllテンプレートを利用したgithubブログです。
-
-test page content
+IT用語の概念から細かい技術まで扱い、共有します。
